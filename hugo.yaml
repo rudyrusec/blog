@@ -18,7 +18,7 @@ params:
   title: Rudra's Blog
   description: "Your Blog"
   keywords: [Blog]
-  author: Your
+  author: Rudra
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "Welcome to my blog"
+    Content: "Welcome to my tech blog where I write about my experiences and learnings in the field of Cyber Security."
 
   socialIcons:
     - name: twitter
@@ -89,9 +89,9 @@ params:
     #  SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
 #  editPost:
 #    URL: "https://github.com/<path_to_repo>/content"
