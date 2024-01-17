@@ -5,7 +5,7 @@ tags: ["AWS", "Cloud Security", "Instance Security"]
 author: ["Rudra"]
 cover:
   image: /posts/images/blog3.png
-  hiddenInList: true
+  hiddenInList: false
 draft: false
 ---
 # Enhancing EC2 Security By Instance Hardening: Restricting IAM Role Access to Specific Users

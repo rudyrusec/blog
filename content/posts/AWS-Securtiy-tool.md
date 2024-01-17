@@ -5,7 +5,7 @@ tags: ["AWS", "Cloud Security", "Security Tools"]
 author: ["Rudra"]
 cover:
   image: /posts/images/aws-blog.png
-  hiddenInList: true
+  hiddenInList: false
 draft: false
 ---
 # Introduction

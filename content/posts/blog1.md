@@ -5,7 +5,7 @@ tags: ["cybersecurity", "databreach"]
 author: ["Rudra"]
 cover:
   image: /posts/images/blog1.png
-  hiddenInList: true
+  hiddenInList: false
 ---
 # Introduction
 The recent data breach at the Indian Council of Medical Research (ICMR), impacting over 81.5 crore Indian citizens, serves as a stark reminder of the vulnerabilities in data security and the importance of safeguarding personal information. This blog delves into the potential implications of such a breach, explores the probable causes, and discusses what hackers can do with the stolen data. Understanding these aspects is crucial for both individuals and organizations to reinforce their data protection strategies.
