@@ -42,3 +42,6 @@ This part introduces containers and orchestration in the cloud, discussing their
 ### Part 8: Identity and Access Management (IAM) Testing
 
 The final part of the series focuses on IAM testing, a critical aspect of cloud security. It will cover the nuances of IAM in AWS, strategies for testing IAM configurations, and ensuring robust access management in the cloud.
+
+
+Continue Reading [Part 1](https://blog.rusec.in/posts/cloud-penetration/part1/)
