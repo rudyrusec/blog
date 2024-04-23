@@ -69,3 +69,4 @@ In light of this incident, it’s crucial for individuals and organizations to t
 
 ## Conclusion
 The ICMR data breach is a wake-up call, highlighting the fragility of digital data security. As we move forward in this interconnected world, the onus is on both individuals and organizations to be vigilant and proactive in protecting personal information. Understanding the potential risks and implementing robust security measures is not just a requirement but a necessity in safeguarding our digital identities.
+
