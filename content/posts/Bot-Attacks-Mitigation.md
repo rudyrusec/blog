@@ -5,7 +5,7 @@ date: 2024-05-29T20:23:30-04:00
 tags: ["Bot Attacks", "Detection Techniques", "Security Tools"]
 author: ["Rudra"]
 cover:
-  image: /posts/images/bot1.png
+  image: /posts/images/bot-mitigation.png
   hiddenInList: false
 draft : false
 ---
@@ -297,7 +297,7 @@ while True:
 
 ## Conclusion
 
-Mitigating bot attacks is no longer optional—it's a necessity to safeguard your e-commerce site and protect your users. By employing a multi-layered defense strategy, you can effectively deter and mitigate bot activities. From rate limiting and CAPTCHAs to advanced machine learning models and continuous monitoring, each layer of defense plays a crucial role in creating a robust security posture.
+Mitigating bot attacks is no longer optional it's a necessity to safeguard your e-commerce site and protect your users. By employing a multi-layered defense strategy, you can effectively deter and mitigate bot activities. From rate limiting and CAPTCHAs to advanced machine learning models and continuous monitoring, each layer of defense plays a crucial role in creating a robust security posture.
 
 Implementing these strategies helps in:
 - **Preventing Data Theft:** Safeguarding sensitive information from being scraped or stolen.
