@@ -1,6 +1,6 @@
 ---
 title: 'The Essential AWS Tools Every Cloud Security Engineer Should Master'
-date: 2024-01-08T13:08:06-05:00
+date: 2024-01-22T13:08:06-05:00
 tags: ["AWS", "Cloud Security", "Security Tools"]
 author: ["Rudra"]
 cover:
@@ -8,6 +8,7 @@ cover:
   hiddenInList: false
 draft: false
 ---
+**Disclaimer:** This blog post represents my personal views on Walmart's Triplet Model and my insights on security complexities involved. It is written after reading numerous articles and gathering information available on the internet.
 # Introduction
 The cloud security paradigm operates under a shared responsibility model, where AWS secures the infrastructure, and customers protect their data within it. Focusing on customer responsibilities, we explore the arsenal of AWS tools designed to fortify their assets against an ever-evolving threat landscape. Cloud security engineers must leverage these tools to craft a resilient defense, ensuring that their part in this collaborative security effort is robust and proactive.
 
